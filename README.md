@@ -1,2 +1,2 @@
 # IBM-HR
-IBM HR Analytics Employee Attrition &amp; Performance. Predict attrition of your valuable employees
+IBM HR Analytics Employee Attrition and Performance. Predict attrition of your valuable employees. Data Mining module 1 project (Data Science & Business Informatics @ Pisa University)
