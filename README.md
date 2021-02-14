@@ -1,6 +1,7 @@
 # IBM-HR-Employee-Attrition
 ## Project for the Data Mining course @ University of Pisa
-Analysis aimed at uncovering the factors that lead to employee attrition. 
+Analysis aimed at uncovering the factors that lead to employee attrition. More informations can be found on https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 The paper is splitted into the following tasks:
 - <b>Data Understanding</b> and assessing of data quality
 - <b>Visualization</b> of the Distribution of the variables and statistics
